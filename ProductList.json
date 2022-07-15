@@ -1,0 +1,17 @@
+[
+	{
+		"name": "p1",
+		"manufacturingdate": "26/02/2020",
+		"expirydate": "23/09/2021"
+	},
+	{
+		"name": "p12",
+		"manufacturingdate": "26/02/2019",
+		"expirydate": "23/09/2021"
+	},
+	{
+		"name": "p3",
+		"manufacturingdate": "26/02/2022",
+		"expirydate": "23/09/2023"
+	}
+]
